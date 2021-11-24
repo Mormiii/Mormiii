@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mormiii
+- 👋 Hi, I’m Dora :)
 - 👀 I’m interested in music producing (modular, VCV Rack), generative art (p5.js), classical instruments:cello, psychology, learning new things.
 - 🌱 I’m currently learning python, pytest.
 - 💞️ I’m looking to collaborate on exciting projects. Maybe something music related - visual graphics.
